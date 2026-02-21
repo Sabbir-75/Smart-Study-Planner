@@ -1,7 +1,7 @@
 ## 🌐 Live Project
 
-🔗 Live Site: https://your-live-link.vercel.app
-🔗 GitHub Repo: https://github.com/yourusername/smart-study-planner
+🔗 Live Site: https://smart-study-planner-teal.vercel.app/
+🔗 GitHub Repo: https://github.com/Sabbir-75/Smart-Study-Planner
 
 # Smart Study Planner
 
